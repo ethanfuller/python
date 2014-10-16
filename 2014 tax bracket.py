@@ -1,5 +1,5 @@
 #!/usr/bin/python2.2 -tt
-# Copyright 2014 Ethan Fuller. All Rights Reserved.
+# Copyright 2014 Point_Four. All Rights Reserved.
 import os
 
 def main():
