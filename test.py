@@ -4,6 +4,10 @@ import os
 
 def main():
     os.system('clear')
-    print 'GPA calculator by Ethan Fuller'
-    print 'Begin by entering your quarter grades. Only numbers.'
+    print 'What is the square-root of 49?'
+    answer = input('Answer: ')
 
+if answer == '7':
+        print 'You are correct!'
+elif 
+    print 'You are wrong!'
