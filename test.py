@@ -6,3 +6,4 @@ def main():
     os.system('clear')
     print 'GPA calculator by Ethan Fuller'
     print 'Begin by entering your quarter grades. Only numbers.'
+
