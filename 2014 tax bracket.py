@@ -20,7 +20,6 @@ def main():
     print '* Select by letter'
     status_select = raw_input('>> ')
 
-
 # Single (Background selection)
     if status_select == 'a':
         print 'Filing status: Single'
