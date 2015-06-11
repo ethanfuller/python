@@ -4,10 +4,17 @@ import os
 
 def main():
     os.system('clear')
-    print 'What is the square-root of 49?'
-    answer = input('Answer: ')
+    print ''
 
-if answer == '7':
-        print 'You are correct!'
-elif 
-    print 'You are wrong!'
+# Propose the question    
+print 'What is the sqaure-root of 36?'
+answer = raw_input('Answer: ')
+
+# Determine if they're correct
+if answer == '6':
+    print 'Correct!'
+else
+    print 'Wrong'
+    
+if __name__ == '__main__':
+    main()
