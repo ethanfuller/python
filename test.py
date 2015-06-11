@@ -13,8 +13,10 @@ answer = raw_input('Answer: ')
 # Determine if they're correct
 if answer == '6':
     print 'Correct!'
-else
+    reset = raw_input('')
+else:
     print 'Wrong'
-    
+    reset = raw_input('')
+
 if __name__ == '__main__':
     main()
