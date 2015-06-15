@@ -18,5 +18,22 @@ else:
     print 'Wrong'
     reset = raw_input('')
 
+# 2nd question
+print 'What is the square-root of 49?'
+second_answer = raw_input('Answer: ')
+
+# Determine if they're correct
+if answer == '7':
+    print 'Correct !'
+    reset = raw_input('')
+else:
+    print 'Wrong'
+    reset = raw_input('')
+    
+
+
+
+
+
 if __name__ == '__main__':
     main()
