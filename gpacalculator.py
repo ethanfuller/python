@@ -19,7 +19,7 @@ def main():
     course_sum = course_one + course_two + course_three + course_four + course_five + course_six
     course_average = course_sum / 6
     
-# GPA grading system and results
+# GPA grading system 
     if course_average >= 93 and course_average <= 100:
         print 'Average grade: %d GPA: 4.00' % course_average
     elif course_average >= 90 and course_average <= 92:
